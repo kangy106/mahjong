@@ -24,4 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Sport Club Corinthians Paulista
 - Fc Bayern Munich
 - Santos
+- Chelsea
 - Albirex Niigata
