@@ -26,6 +26,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Santos
 - Chelsea
 - Albirex Niigata
+- gamba osaka
 - NAIST x FUTSAL
 - Murash FC
 - Barcelona 
