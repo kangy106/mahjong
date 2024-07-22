@@ -30,4 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Nine Gates
 - Toitoi
 - Junchan
+- Tsumo
 - 嶺上開花
